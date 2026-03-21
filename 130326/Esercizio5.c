@@ -5,7 +5,6 @@ int main(){
     char lettera, nuova_lettera;
     int spostamento;
 
-    
     printf("Inserisci un carattere maiuscolo tra A e Z: ");
     scanf("%c", &lettera);
 

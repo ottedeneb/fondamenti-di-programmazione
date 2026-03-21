@@ -10,7 +10,6 @@ int main(){
     centinaia = numero / 100;
     printf("Cifra centinaia: %d \n", centinaia);
 
-
     decine = numero / 10 % 10;
     printf("Cifra decine: %d \n", decine);
 
